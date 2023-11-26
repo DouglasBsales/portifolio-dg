@@ -48,7 +48,7 @@
 
     .sobre-mim img{
         position: relative;
-        left: -54px;
+        left: -57px;
     }
 
     .sobre-mim{
@@ -294,7 +294,7 @@ main {
 }
 
 .conteudo-estudos ul li{
-    padding: 0 90px;
+    padding: 0 76px 0px 76px;
 }
 
 .conteudo-estudos li a{
