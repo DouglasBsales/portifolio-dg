@@ -48,7 +48,8 @@
 
     .sobre-mim img{
         position: relative;
-        left: -57px;
+        left: -50px;
+        object-fit:cover;
     }
 
     .sobre-mim{
@@ -148,8 +149,8 @@ main {
 
 .sobre-mim img{
     width:  400px;
-    height: 450px;
-    border-radius:  170px;
+    height: 400px;
+    border-radius:  200px;
 }
 
 .conteudo-sobre-mim{
