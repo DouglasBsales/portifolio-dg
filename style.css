@@ -281,6 +281,10 @@ main {
     color: #FABD69;
 }
 
+.estudos h1{
+    margin-bottom: 120px;
+}
+
 .conteudo-estudos{
     width: 50%;
     margin: auto;
